@@ -5,6 +5,8 @@ package in.taskmaster_pro.model;
 //
 //@Getter
 //@Setter
+
+@Entity
 public class Task
 {
     private int id;
